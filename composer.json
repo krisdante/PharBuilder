@@ -2,7 +2,6 @@
   "name": "macfja/phar-builder",
   "license": "MIT",
   "require": {
-    "php": "~7.1",
     "symfony/console": "*",
     "nicmart/string-template": "^0.1.1",
     "league/event": "^2.1",
